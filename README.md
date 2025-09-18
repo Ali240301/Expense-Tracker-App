@@ -64,6 +64,6 @@ https://eclectic-mousse-63fd8d.netlify.app/
 Author:
 
 Built by Mubashir Ali with guidance from my mentor 🙌
-Repository: https://github.com/Ali240301/Expense-Tracker-App|
+Repository: [https://github.com/Ali240301/Expense-Tracker-App|](https://github.com/Ali240301/Expense-Tracker-App.git)
 
 
